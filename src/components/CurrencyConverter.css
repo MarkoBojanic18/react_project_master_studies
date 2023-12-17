@@ -1,0 +1,12 @@
+.back {
+  background-color: #161616;
+  color: #ddd;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.curName {
+  color: #eef;
+  text-align: center;
+  padding-bottom: 50px;
+}
